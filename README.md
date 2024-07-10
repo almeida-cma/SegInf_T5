@@ -1,7 +1,7 @@
 # SegInf_T5
 Criptografia
 
-ATIVIDADES
+ATIVIDADES: Enviar respostas em arquivo PDF para https://almeida-cma.github.io/receber/
 1. O que é criptografia?
 2. Qual é a finalidade da criptografia na segurança da informação?
 3. Cite um exemplo de uso comum da criptografia no cotidiano.
