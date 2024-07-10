@@ -8,3 +8,5 @@ ATIVIDADES: Enviar respostas em arquivo PDF para https://almeida-cma.github.io/r
 4. Explique a diferença entre criptografia simétrica e criptografia assimétrica. Quais são as vantagens e desvantagens de cada abordagem?
 5. Descreva o que é uma chave de criptografia e por que é importante para garantir a segurança dos dados criptografados.
 
+Responder Kahoot incluindo seu nome como apelido:
+https://kahoot.it/challenge/08814259?challenge-id=b4c24f45-a0df-4a6b-892a-ebc36c43780b_1720609981719
