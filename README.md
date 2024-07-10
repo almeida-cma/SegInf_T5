@@ -10,3 +10,17 @@ ATIVIDADES: Enviar respostas em arquivo PDF para https://almeida-cma.github.io/r
 
 Responder Kahoot incluindo seu nome como apelido:
 https://kahoot.it/challenge/08814259?challenge-id=b4c24f45-a0df-4a6b-892a-ebc36c43780b_1720609981719
+
+DESAFIO:
+Desvendar a mensagem abaixo:
+BUBDBS FN 12.07 IPSB 09:00
+
+DICAS:
+Atacar em 12-07
+BUBDBS FN 12-07
+
+entrar em ataque
+FOUSBS FN BUBRVF
+
+hora do ataque
+IPSB EP BUBRVF
