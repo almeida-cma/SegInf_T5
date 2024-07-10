@@ -13,14 +13,14 @@ https://kahoot.it/challenge/08814259?challenge-id=b4c24f45-a0df-4a6b-892a-ebc36c
 
 DESAFIO:
 Desvendar a mensagem:
-BUBDBS FN 12.07 IPSB 09:00
+DWDTXH FRP WXGR HP 12.07 KRUD 12:35
 
 DICAS:
 Atacar em 12-07
-BUBDBS FN 12-07
+DWDFDU HP 12-07
 
 entrar em ataque
-FOUSBS FN BUBRVF
+HQWUDU HP DWDTXH
 
 hora do ataque
-IPSB EP BUBRVF
+KRUD GR DWDTX
