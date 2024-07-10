@@ -12,7 +12,7 @@ Responder Kahoot incluindo seu nome como apelido:
 https://kahoot.it/challenge/08814259?challenge-id=b4c24f45-a0df-4a6b-892a-ebc36c43780b_1720609981719
 
 DESAFIO:
-Desvendar a mensagem abaixo:
+Desvendar a mensagem:
 BUBDBS FN 12.07 IPSB 09:00
 
 DICAS:
